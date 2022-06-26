@@ -7,8 +7,11 @@ Although roles and productivity change with the transition into the NBA, this is
 
 class2022.csv is the statistics of all major players being considered for this year's draft, source: https://basketball.realgm.com/nba/draft/prospects/stats
 
-gli2022.csv is the same, but for all players on the G-League Ignite team, source: https://basketball.realgm.com/dleague/teams/NBA-G-League-Ignite/61/Stats
+gli2022.csv is the same, but for all players on the G-League Ignite team, source: 
+https://basketball.realgm.com/dleague/teams/NBA-G-League-Ignite/61/Stats
 
-draft2022.csv is the actual draft results, source: https://www.basketball-reference.com/draft/NBA_2022.html
+draft2022.csv is the actual draft results, source: 
+https://www.basketball-reference.com/draft/NBA_2022.html
 
-sochan.csv are Jeremy Sochan's college stats, for some reason he was not included in class2022.csv on CBS, source: https://www.sports-reference.com/cbb/players/jeremy-sochan-1.html
+sochan.csv are Jeremy Sochan's college stats, for some reason he was not included in class2022.csv on CBS, source: 
+https://www.sports-reference.com/cbb/players/jeremy-sochan-1.html
