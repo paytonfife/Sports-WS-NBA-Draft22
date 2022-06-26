@@ -5,6 +5,8 @@ For this project, I compiled the stats of all 2022 NBA draft prospects, includin
 
 Although roles and productivity change with the transition into the NBA, this is a good indicator of which prospects are efficient in their minutes on the court, which is vital to the league setup of sports.ws fantasy. 
 
+## sports.ws Draft 22.ipynb is the main file
+
 class2022.csv is the statistics of all major players being considered for this year's draft, source: https://basketball.realgm.com/nba/draft/prospects/stats
 
 gli2022.csv is the same, but for all players on the G-League Ignite team, source: 
